@@ -1,0 +1,10 @@
+*.java  text
+*.xml   text
+*.html  text
+*.properties text
+*.txt   text
+
+*.png   -text
+*.ogg   -text
+*.zip   -text
+*.jar   -text
